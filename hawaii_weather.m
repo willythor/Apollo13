@@ -1,4 +1,4 @@
-clf
+HIHIclf
 hold on
 %weather from 1 am
 weather = [18 19 20 21 22 24 22 21 21 20 19 18 18 18 18 18 18 18 16 17 17 17 17 17];
